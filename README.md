@@ -11,10 +11,10 @@ PowerBI
 4. Average Monthly Sales
 
 ## Steps - 
-Data Cleaning - used power query to clean & transform the data
-Data Modelling - connected tables in a data model
-Creating Measures - creating measures using formulas to use for analysis and visualization (for example - weekly sales contribution by N02BE - [Total weekly sales/Weekly sales of N02BE]*100)
-Creating Dashboard for Visualization
+1. Data Cleaning - used power query to clean & transform the data
+2. Data Modelling - connected tables in a data model
+3. Creating Measures - creating measures using formulas to use for analysis and visualization (for example - weekly sales contribution by N02BE - [Total weekly sales/Weekly sales of N02BE]*100)
+4. Creating Dashboard for Visualization
 
 ## Key Points of Visualizations -
 1. Weekly sales by category - sales of each category of drug according to each week (week 1 to 6)
@@ -28,3 +28,6 @@ Creating Dashboard for Visualization
 Take a detailed look at the dashboard to infer the results of the analysis.
 
 ### Link to Live Dashboard
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNjZmNTg2OTItMGMxYS00MDRlLTljOWYtNjRiOTA2NzUxNTk4IiwidCI6IjdiODdkYzgwLWY4MzctNGZmYS04NGM4LThhMDhkNDRiNzk5NyJ9">View Live Dashboard</a>
+
+![Screenshot Dashboard](https://github.com/Ana9me/Pharmaceutical-Sales-Analysis/blob/main/Screenshot%20of%20Pharma%20Sales%20Dashboard.png)

@@ -24,3 +24,7 @@ Creating Dashboard for Visualization
 5. Quantity of Each Category Sold Hourly - quantity of each drug sold on hourly basis
 6. Quaterly vs Total Monthly Sales by Category - comparing quarterly sales and total monthly sales of each drug category
 
+## Results
+Take a detailed look at the dashboard to infer the results of the analysis.
+
+### Link to Live Dashboard

@@ -44,6 +44,13 @@ Take a detailed look at the dashboard to infer the results of the analysis.
 5. Total Weekly sales is $127595.50 and Total Daily Sales is $127591.98
 6. Underperforming months are June, July & August. Also, there are several underperforming categories (those performing <15%).
 
+## Recommendations -
+1. Invest in promotional campaigns, sales training and R&D to avoid overdependence on N02BE.
+2. Study the events on high performing months and try to replicate them for underperforming months to boost sales.
+3. Leverage high performing hours for promotions and discounts to increase sales performance.
+4. Set realistic monthly sales targets according to historical data.
+5. Optimize inventory & supply chain on underperforming drug categories.
+
 ### Link to Live Dashboard
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNjZmNTg2OTItMGMxYS00MDRlLTljOWYtNjRiOTA2NzUxNTk4IiwidCI6IjdiODdkYzgwLWY4MzctNGZmYS04NGM4LThhMDhkNDRiNzk5NyJ9">View Live Dashboard</a>
 

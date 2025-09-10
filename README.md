@@ -38,7 +38,7 @@ PowerBI
 Take a detailed look at the dashboard to infer the results of the analysis.
 1. N02BE drug is the top performer with 49.38% weekly sales contribution.
 2. Sales trend has seen an incline from 2014 to 2016 with peak at 2016. Then there is a decline in 2017 and partial recovery in 2018 and a steady decline in 2019.
-3. Best Month: October (~$11k each), Worst Month: July & August (~9K each)
+3. Best Month: October (~$11k each), Worst Month: July & August (~9K each)<br>
    Best Quarter: Q1 & Q3, Worst Quarter: Q2
 4. Average monthly sales is $15.82k but actual monthly sales are far less. Most months are underperforming.
 5. Total Weekly sales is $127595.50 and Total Daily Sales is $127591.98
